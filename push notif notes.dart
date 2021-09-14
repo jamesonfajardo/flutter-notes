@@ -19,7 +19,15 @@
 // =======================================================================
 
 
-// step 1.5 - import the local_notification_service.dart included in this repo
+// step 1.5 - download local_notification_service.dart and import it where it can be initialized
+// if you will initialize without context, you can import it in main.dart
+// if you will initialize with context, you can import it in a page with initState
+
+// you can download it here:
+// https://raw.githubusercontent.com/jamesonfajardo/push_notif_demo/main/lib/services/local_notification_service.dart
+
+// the entire push notif project can be viewed here:
+// https://github.com/jamesonfajardo/push_notif_demo
 
 
 // =======================================================================
